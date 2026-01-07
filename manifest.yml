@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: exp1-nginx-container
-          image: exp1-prakhar:latest
+          image: prakharvs/exp1-prakhar:latest
           ports:
             - containerPort: 80
 ---
